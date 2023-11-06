@@ -4,7 +4,7 @@
 </div><br>
 
 
-### Este es un buscador desarrollado en BASH de las máquinas resueltas en HackTheBox por S4vitar!
+- Este es un buscador desarrollado en BASH de las máquinas resueltas en HackTheBox por S4vitar!
 
 ### Uso y comados:
 
