@@ -1,15 +1,16 @@
-<h3>Buscador de máquinas HackTheBox</h3>
+<h1>Buscador de máquinas HackTheBox</h1>
+<h3>Máquinas desarrolladas por S4vitar</h3>
 
-Este es un buscador desarrolaldo en BASH de las máquinas resueltas en HackTheBox por S4vitar!
+Este es un buscador desarrollado en BASH de las máquinas resueltas en HackTheBox por S4vitar!
 
 Uso y comados:
-echo -e "\n${yellowColour}[+]${endColour}${grayColour} Uso de la herramienta:${endColour}\n"
-  echo -e "\t${purpleColour}u)${endColour}${grayColour} Descargar o actualizar archivos necesarios${endColour}"
-  echo -e "\t${purpleColour}m)${endColour}${grayColour} Buscar por un nombre de máquina${endColour}" 
-  echo -e "\t${purpleColour}i)${endColour}${grayColour} Buscar por dirección IP${endColour}"
-  echo -e "\t${purpleColour}d)${endColour}${grayColour} Buscar máquinas por dificultad.${endColour}" 
-  echo -e "\t${purpleColour}o)${endColour}${grayColour} Buscar máquinas por Sistema Operativo.${endColour}" 
-  echo -e "\t${purpleColour}s)${endColour}${grayColour} Buscar máquinas por Skills.${endColour}" 
-  echo -e "\t${purpleColour}p)${endColour}${grayColour} Buscar máquinas por preparacion para certificaciones.${endColour}" 
-  echo -e "\t${purpleColour}y)${endColour}${grayColour} Obtener link de la resolucion de la maquina en Youtube.${endColour}"   
-  echo -e "\t${purpleColour}h)${endColour}${grayColour} Mostrar este panel de ayuda${endColour}\n"
+
+-u Descargar o actualizar archivos necesarios
+-m Buscar por un nombre de máquina
+-i Buscar por dirección IP
+-d Buscar máquinas por dificultad.
+-o Buscar máquinas por Sistema Operativo.
+-s Buscar máquinas por Skills.
+-p Buscar máquinas por preparacion para certificaciones. 
+-y Obtener link de la resolucion de la maquina en Youtube. 
+-h Mostrar este panel de ayuda
