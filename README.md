@@ -1,9 +1,11 @@
-<h1>Buscador de máquinas HackTheBox</h1>
-<h3>Máquinas desarrolladas por S4vitar</h3>
+<div class="header" align="center"> 
+  <h1>Buscador de máquinas HackTheBox</h1>
+  <h3>Máquinas desarrolladas por S4vitar</h3>
+</div>
 
 Este es un buscador desarrollado en BASH de las máquinas resueltas en HackTheBox por S4vitar!
 
-Uso y comados:
+### Uso y comados:
 
 -u Descargar o actualizar archivos necesarios
 -m Buscar por un nombre de máquina
